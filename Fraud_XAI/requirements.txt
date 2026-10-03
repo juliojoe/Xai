@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+imbalanced-learn
+shap
+statsmodels
+matplotlib
+seaborn
+joblib
+streamlit
+jupyter
+notebook
+ipykernel
+lime>=0.2.0.1
